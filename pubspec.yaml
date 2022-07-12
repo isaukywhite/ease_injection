@@ -1,5 +1,5 @@
 name: ease_injection
-description: A starting point for Dart libraries or applications.
+description: A simple dependency injection mechanism
 version: 0.0.1
 repository: https://github.com/isaukywhite/ease_injection
 
